@@ -1,0 +1,14 @@
+#story {
+  display: none;
+}
+
+.letter {
+  height: 33vh;
+  width: 50vw;
+  background-color: white;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  margin-top: 20vh;
+  padding: 2%;
+}
